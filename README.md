@@ -20,4 +20,4 @@ Desafio proposto em [frontendmentor.io](https://www.frontendmentor.io/)
 
 ## Deploy:
 
-* ...
+* [https://donderi.netlify.app/](https://donderi.netlify.app/)
