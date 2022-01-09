@@ -121,6 +121,7 @@ a{
 .navbar{
   color:var(--White);
   position:absolute;
+  z-index: 99;
   right: 0;
   background:rgb(255, 255, 255, .04);
 

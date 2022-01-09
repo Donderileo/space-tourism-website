@@ -96,6 +96,7 @@ export default {
 }
 .crew-info__image{
   position:relative;
+  z-index:0;
   width:200px;
   height:200px;
   border-bottom:1px groove var(--Light-gray);
@@ -214,7 +215,8 @@ export default {
     background-image:url('../../public/images/crew/background-crew-desktop.jpg');  
     padding-top:200px;
     padding-left:100px;
-    gap:70px;
+    gap:150px;
+    align-items:flex-start;
   }
   .crew-info{
     flex-direction: row-reverse;
@@ -241,8 +243,8 @@ export default {
     right:100px;
     bottom:0;
 
-    height:450px;
-    width:450px;
+    height:600px;
+    width:600px;
   }
   .name-title{
     align-items:flex-start;

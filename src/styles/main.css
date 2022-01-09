@@ -17,6 +17,7 @@ html{
 }
 
 body{
+  background: black;
     min-height: -webkit-fill-available;
 }
 
